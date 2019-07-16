@@ -1,0 +1,15 @@
+#           __  __                    ____    _           _         
+#          |  \/  |   __ _  __  __   / ___|  | |   ___   | |_   ___ 
+#          | |\/| |  / _` | \ \/ /   \___ \  | |  / _ \  | __| / __|
+#          | |  | | | (_| |  >  <     ___) | | | | (_) | | |_  \__ \
+#          |_|  |_|  \__,_| /_/\_\   |____/  |_|  \___/   \__| |___/
+#
+#                       Plugin Created by: Mason#0779
+# 
+                                                                                                        
+SETTINGS:
+  slots: 50
+MESSAGES:
+  KICK: '&4&lServer is Full'
+  INVALID-INT: '&c&l(!)&7 {amount}&c is an invalid number.'
+  SET-MAX: '&a&l(!)&7 {sender}&a set maximum server slots to &7{amount}&a.' 

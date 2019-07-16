@@ -1,0 +1,10 @@
+name: SpaceMaxSlots
+version: 1.0
+description: Set your servers max playercount!
+author: Mason#0779
+main: me.mason.slots.Main
+commands:
+  maxplayers:
+    usage: /<command>
+    description: Set the maximum player count on the server.
+    aliases: [maxslots, setslots]
